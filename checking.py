@@ -1,2 +1,2 @@
-for i,item in enumerate('divya'):
-    print(i,item)
+for i,item in enumerate('vidya'):
+    print(i)
